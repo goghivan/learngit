@@ -1,2 +1,2 @@
 Git is free
-git is a distributed
+Git is distributed
